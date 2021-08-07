@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋,Programmers</h1>
-<h3 align="flex">A passionate software Developer from Kenya <img align="center"alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> </h3>
-
+<h3 align="center">A passionate software Developer from Kenya  </h3>
+<p align="center">
+<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+</p>
 
 <h2 align="center"> 📫 How to reach me: 👇👇 </h2>
 <p align='center'>
