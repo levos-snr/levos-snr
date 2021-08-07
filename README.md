@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋,Programmers</h1>
 <h3 align="center">A passionate software Developer from Kenya</h3>
+
+<header align='center'> <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> </header>
+
+
+
 <h2 align="center"> 📫 How to reach me: 👇👇 </h2>
 <p align='center'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tripple-boy" alt="Lewis Odero" /> </p>
@@ -26,7 +31,7 @@
 - ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
 - 📫 Contact for queries : lewisodero27@gmail.com
 - 📝[Resume]()
- <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 
 <br/>
 <br/>
