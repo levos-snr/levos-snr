@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋,Programmers</h1>
 <h3 align="center">A passionate software Developer from Kenya</h3>
 <p align='center'>
-<a href="#"><img height="30" src="https://github.com/tripple-boy/tripple-boy/tree/master/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="#"><img height="30" src="https://github.com/tripple-boy/tripple-boy/tree/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="#"><img height="30" src="https://github.com/tripple-boy/tripple-boy/tree/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="#"><img height="30" src="https://github.com/tripple-boy/tripple-boy/tree/master/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="#"><img height="30" src="https://github.com/tripple-boy/tripple-boy/tree/master/icon/linkedin.png?raw=true"></a>
+<a href="#"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="#"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/twitter.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="#"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="#"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="#"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/linkedin.png?raw=true"></a>
 </p>
 
 
