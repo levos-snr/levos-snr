@@ -23,6 +23,8 @@
 
 <br />
 
+<p align="center">
+
 - 🔭 I’m currently working on ** Web Development, React and Nodejs**
 - 🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js**
 - 👯 I’m looking to collaborate on ** Web Developers and open source collaborators**
@@ -32,7 +34,7 @@
 - ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
 - 📫 Contact for queries : lewisodero27@gmail.com
 - 📝[Resume]()
-
+</p>
 
 <br/>
 <br/>
