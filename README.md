@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,Programmers</h1>
 <h3 align="center">A passionate software Developer from Kenya</h3>
 
-<header align='center'> <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> </header>
+<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> 
 
 
 
@@ -111,7 +111,7 @@
 [![Stargazers repo roster for @tripple-boy/tripple-boy](https://reporoster.com/stars/tripple-boy/tripple-boy)](https://github.com/tripple-boy/tripple-boy/stargazers)
 
 
-**Credits**: [Lewis Odero](https://github.com/tripple-boy/tripple-boy/)
+**Credits**: [Lewis Odero](https://github.com/tripple-boy/)
 
 **Last Edited**: 1/07/2021
 </p>
