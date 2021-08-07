@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋,Programmers</h1>
 <h3 align="center">A passionate software Developer from Kenya</h3>
+<h2 align="center"> 📫 How to reach me: https://www.linkedin.com/in/lewis-odero-5aa1241a2/ </h2>
 <p align='center'>
 <a href="https://dev.to/odero"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -18,22 +19,15 @@
 <br />
 
 - 🔭 I’m currently working on ** Web Development, React and Nodejs**
-- 🌱 I’m currently learning **Artificial Intelligence and Competitive Programming**
-- 👯 I’m looking to collaborate on **Android, Data Science or Web Development**
-
-
-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-
-
-- 🤔 I’m looking for help with **Internships**
+- 🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js**
+- 👯 I’m looking to collaborate on ** Web Developers and open source collaborators**
+- 🤔 I’m looking for help with **Internships or work**
 - 💬 Ask me about Anything [here](https://github.com/tripple-boy/lewis-0dero-okongo/issues)! I am happy to help.
-- 😄 Pronouns : **He/Him/His**
+- 😄 Pronouns : **Luis O-d-e-r-o**
 - ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
-- 📫 How to reach me: https://www.linkedin.com/in/lewis-odero-5aa1241a2/
 - 📫 Contact for queries : lewisodero27@gmail.com
 - 📝[Resume]()
-
+ <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <br/>
 <br/>
