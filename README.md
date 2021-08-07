@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋,Programmers</h1>
+<h3 align="center">A passionate software Developer from Kenya</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tripple-boy" alt="Lewis Odero" /> </p>
 
   <br/>
 <p align="center">
