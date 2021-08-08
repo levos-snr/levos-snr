@@ -34,17 +34,17 @@
  <a href="https://www.buymeacoffee.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/buy-me-a-coffee.png?raw=true"></a>
 </p>
 
-<p align="right">
+<p align="center">
 
-<h1>- 🔭 I’m currently working on ** Frontend Developer, ReactJS , Redux and Nodejs**</h1>
-<h1>- 🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js**</h1>
-<h1>- 👯 I’m looking to collaborate on ** Web Developers and open source collaborators**</h1>
-<h1>- 🤔 I’m looking for help with **Internships or work**</h1>
-<h1>- 💬 Ask me about Anything [here](https://github.com/tripple-boy/lewis-0dero-okongo/issues)! I am happy to help.</h1>
-<h1>- 😄 Pronouns : **Luis O-d-e-r-o**</h1>
-<h1>- ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***</h1>
-<h1>- 📫 Contact for queries : lewisodero27@gmail.com</h1>
-<h1>- 📝[Resume]()</h1>
+<p align="center">* 🔭 I’m currently working on ** Frontend Developer, ReactJS , Redux and Nodejs**</p>
+<p align="center"> *🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js**</p>
+<p align="center">* 👯 I’m looking to collaborate on ** Web Developers and open source collaborators**</p>
+<p align="center">* 🤔 I’m looking for help with **Internships or work**</p>
+<p align="center">* 💬 Ask me about Anything [here](https://github.com/tripple-boy/lewis-0dero-okongo/issues)! I am happy to help.</p>
+<p align="center">* 😄 Pronouns : **Luis O-d-e-r-o**</p>
+<p align="center">*⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***</p>
+<p align="center">* 📫 Contact for queries : lewisodero27@gmail.com</p>
+<p align="center">* 📝[Resume]()</p>
 </p>
 
 <br/>
