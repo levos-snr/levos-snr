@@ -48,7 +48,6 @@
   <code>
     <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Ftripple-boy" alt="Github Profile Score">
   </code>
- <img height="230em" src="https://camo.githubusercontent.com/187a31933b17cb04dcf9720a9c09173da69ad99588f4f5fae616accf907ba16b/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6b6d616e61646b6174267468656d653d736f6c6172697a65645f6461726b" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tripple-boyt&amp;theme=solarized_dark" style="max-width:100%;">
 </p>
 
 #
