@@ -33,23 +33,18 @@
 <p align="center">
  <a href="https://www.buymeacoffee.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/buy-me-a-coffee.png?raw=true"></a>
 </p>
-
-<p align="center">
-
-<p align="center">* 🔭 I’m currently working on ** Frontend Developer, ReactJS , Redux and Nodejs**</p>
-<p align="center"> *🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js**</p>
-<p align="center">* 👯 I’m looking to collaborate on ** Web Developers and open source collaborators**</p>
-<p align="center">* 🤔 I’m looking for help with **Internships or work**</p>
-<p align="center">* 💬 Ask me about Anything [here](https://github.com/tripple-boy/lewis-0dero-okongo/issues)! I am happy to help.</p>
-<p align="center">* 😄 Pronouns : **Luis O-d-e-r-o**</p>
-<p align="center">*⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***</p>
-<p align="center">* 📫 Contact for queries : lewisodero27@gmail.com</p>
-<p align="center">* 📝[Resume]()</p>
-</p>
+<br/>
+-🔭 I’m currently working on ** Frontend Developer, ReactJS , Redux and Nodejs**
+- *🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js**
+- 👯 I’m looking to collaborate on ** Web Developers and open source collaborators**
+-🤔 I’m looking for help with **Internships or work**
+- 💬 Ask me about Anything [here](https://github.com/tripple-boy/lewis-0dero-okongo/issues)! I am happy to help.
+- 😄 Pronouns : **He/Him/The**
+-⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
+- 📫 Contact for queries : lewisodero27@gmail.com
+- 📝[Resume]()
 
 <br/>
-<br/>
-
 <p align="center">
   <img src="https://gpvc.arturio.dev/lewis-0dero-okongo" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/tripple-boy?label=Followers&style=social"> •   
@@ -61,17 +56,11 @@
   </code>
 </p>
 
-#
-
-
 <p align="center">
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripple-boy&theme=dark&hide_border=true"/>
   </a>
 </p>
-
-#
-
 <br/>
 
 **LANGUAGES AND TOOLS:**  
@@ -94,11 +83,7 @@
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/></code><code> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> </code>
 
-
 <br/>
-
-#
-
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
@@ -116,11 +101,6 @@
 </p>
 </details>
 <br>
-
-#
-
-
-
 <br>
 ## Stargazers
 
