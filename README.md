@@ -34,6 +34,8 @@
  <a href="https://www.buymeacoffee.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/buy-me-a-coffee.png?raw=true"></a>
 </p>
 <br/>
+<br/>
+#
 -🔭 I’m currently working on ** Frontend Developer, ReactJS , Redux and Nodejs**
 - *🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js**
 - 👯 I’m looking to collaborate on ** Web Developers and open source collaborators**
@@ -44,6 +46,7 @@
 - 📫 Contact for queries : lewisodero27@gmail.com
 - 📝[Resume]()
 
+<br/>
 <br/>
 <p align="center">
   <img src="https://gpvc.arturio.dev/lewis-0dero-okongo" alt="profile views"> •  
