@@ -39,23 +39,25 @@
 
 
 <br/>
-<br/>
 #
+<br/>
+
 <p align='center'>
- -🔭 I’m currently working on ** Frontend Developer, ReactJS , Redux and Nodejs** 
- -🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js**
- -👯 I’m looking to collaborate on ** Web Developers and open source collaborators**
- -🤔 I’m looking for help with **Internships or work**
- -💬 Ask me about Anything [here](https://github.com/tripple-boy/lewis-0dero-okongo/issues)! I am happy to help.
- -😄 Pronouns : **He/Him/The**
- -⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
- -📫 Contact for queries : lewisodero27@gmail.com
- -📝[Resume]()
+ 🔭 I’m currently working on ** Frontend Developer, ReactJS , Redux and Nodejs** 
+ 🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js**
+ 👯 I’m looking to collaborate on ** Web Developers and open source collaborators**
+ 🤔 I’m looking for help with **Internships or work**
+ 💬 Ask me about Anything [here](https://github.com/tripple-boy/lewis-0dero-okongo/issues)! I am happy to help.
+ 😄 Pronouns : **He/Him/The**
+ ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
+ 📫 Contact for queries : lewisodero27@gmail.com
+ 📝[Resume]()
 </p>
 
 
 
 <br/>
+#
 <br/>
 <p align="center">
   <img src="https://gpvc.arturio.dev/lewis-0dero-okongo" alt="profile views"> •  
