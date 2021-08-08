@@ -42,14 +42,14 @@
 
 <p align="right">
 
-- 🔭 I’m currently working on **Frontend Developer, ReactJS , Redux and Nodejs***
-- 🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js***
-- 👯 I’m looking to collaborate on **Web Developers and open source collaborators***
-- 🤔 I’m looking for help with **Internships or work***
-- 💬 Ask me about Anything : **[here](https://github.com/tripple-boy/lewis-0dero-okongo/issues)!*** I am happy to help.
+- 🔭 I’m currently working on **Frontend Developer, ReactJS , Redux and Nodejs**
+- 🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js**
+- 👯 I’m looking to collaborate on **Web Developers and open source collaborators**
+- 🤔 I’m looking for help with **Internships or work**
+- 💬 Ask me about Anything : **[here](https://github.com/tripple-boy/lewis-0dero-okongo/issues)!** I am happy to help.
 - 😄 Pronouns : **He/His/Him**
-- ⚡ Fun fact : **Best Part Of The Journey Is : **It Ends***
-- 📫 Contact for queries : **lewisodero27@gmail.com***
+- ⚡ Fun fact : *Best Part Of The Journey Is : **It Ends***
+- 📫 Contact for queries : **lewisodero27@gmail.com**
 - 📝[Resume]()
 </p>
 
