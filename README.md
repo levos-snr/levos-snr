@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,Programmers</h1>
 <h3 align="center">A passionate software Developer from Kenya</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Lewist+;I+am+a+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Akshat+;I+am+a+FrontEnd+Developer)](https://git.io/typing-svg)
 <p align="center">
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </p>
