@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/in/lewis-odero-5aa1241a2/"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/linkedin.png?raw=true"></a>
  
 </p>
+
 <p align="center">
  <a href="https://www.buymeacoffee.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/buy-me-a-coffee.png?raw=true"></a>
 </p>
@@ -25,8 +26,21 @@
 
 <p align="center">
 
-- 🔭 I’m currently working on ** Web Development, React and Nodejs**
+- 🔭 I’m currently working on ** Frontend Developer, ReactJS , Redux and Nodejs**
+ <p align='right' >
+   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+   <img alt="React Native" src="https://img.shields.io/badge/-React_Native-007ACC?style=for-the-badge&logo=react&logoColor=white" /></br>
+   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></br>
+   </p>
+ 
+ 
 - 🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js**
+ <p align='right' >
+ <img alt="Next JS" src="https://img.shields.io/badge/-Next_JS-000000?style=for-the-badge&logo=nextjs&logoColor=white" />
+ <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=reactjs&logoColor=white" /> 
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
+ 
+ </p>
 - 👯 I’m looking to collaborate on ** Web Developers and open source collaborators**
 - 🤔 I’m looking for help with **Internships or work**
 - 💬 Ask me about Anything [here](https://github.com/tripple-boy/lewis-0dero-okongo/issues)! I am happy to help.
