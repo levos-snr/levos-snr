@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,Programmers</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Lewis+;I+am+a+a+passionate+Software+Developer,+from+Kenya💥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Lewis+;I+am+a+a+passionate+Software+Developer,+from+Kenya)](https://git.io/typing-svg)
 <h3 align="center">A passionate software Developer from Kenya  </h3>
 <p align="center">
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
