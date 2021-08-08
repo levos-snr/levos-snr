@@ -29,13 +29,21 @@
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=yarn&logoColor=white" /> 
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=npm&logoColor=white" /> 
  </p>
+ 
+ 
+ 
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/buy-me-a-coffee.png?raw=true"></a>
 </p>
+
+
+
+
 <br/>
 <br/>
 #
+<p align='center'>
 -🔭 I’m currently working on ** Frontend Developer, ReactJS , Redux and Nodejs**
 - *🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js**
 - 👯 I’m looking to collaborate on ** Web Developers and open source collaborators**
@@ -45,6 +53,9 @@
 -⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
 - 📫 Contact for queries : lewisodero27@gmail.com
 - 📝[Resume]()
+   </p>
+
+
 
 <br/>
 <br/>
