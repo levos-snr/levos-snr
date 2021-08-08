@@ -31,8 +31,6 @@
  </p>
  
  
- 
-
 <p align="center">
  <a href="https://www.buymeacoffee.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/buy-me-a-coffee.png?raw=true"></a>
 </p>
@@ -44,16 +42,16 @@
 <br/>
 #
 <p align='center'>
--🔭 I’m currently working on ** Frontend Developer, ReactJS , Redux and Nodejs**
-- *🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js**
-- 👯 I’m looking to collaborate on ** Web Developers and open source collaborators**
--🤔 I’m looking for help with **Internships or work**
-- 💬 Ask me about Anything [here](https://github.com/tripple-boy/lewis-0dero-okongo/issues)! I am happy to help.
-- 😄 Pronouns : **He/Him/The**
--⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
-- 📫 Contact for queries : lewisodero27@gmail.com
-- 📝[Resume]()
-   </p>
+ -🔭 I’m currently working on ** Frontend Developer, ReactJS , Redux and Nodejs** 
+ -🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js**
+ -👯 I’m looking to collaborate on ** Web Developers and open source collaborators**
+ -🤔 I’m looking for help with **Internships or work**
+ -💬 Ask me about Anything [here](https://github.com/tripple-boy/lewis-0dero-okongo/issues)! I am happy to help.
+ -😄 Pronouns : **He/Him/The**
+ -⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
+ -📫 Contact for queries : lewisodero27@gmail.com
+ -📝[Resume]()
+</p>
 
 
 
@@ -80,6 +78,11 @@
 **LANGUAGES AND TOOLS:**  
 <br/>
 <br/>
+
+
+
+
+
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
@@ -98,6 +101,9 @@
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/></code><code> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> </code>
 
 <br/>
+   </br>
+   
+   
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
