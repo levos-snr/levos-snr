@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋,Programmers</h1>
+<h3 align='center'>
+   <iframe src="https://ghbtns.com/github-btn.html?user=tripple-boytwbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+   </h3>
+   
+   
 <h3 align="center">A passionate software Developer from Kenya</h3>
 <p align="center">
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -8,8 +13,6 @@
 <p align='center'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tripple-boy" alt="Lewis Odero" /> 
 </p>
-<a href="https://twitter.com/_tripple_boy?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @_tripple_boy</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <hr>
 
 <p align='center'>
