@@ -7,7 +7,7 @@
 <h2 align="center"> 📫 How to reach me: 👇👇 </h2>
 <p align='center'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tripple-boy" alt="Lewis Odero" /> </p>
-[![Twitter Follow](https://img.shields.io/twitter/follow/_tripple_boy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_tripple_boy&screen_name=_tripple_boy)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_tripple_boy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F&screen_name=_tripple_boy)
 <hr>
 
 <p align='center'>
