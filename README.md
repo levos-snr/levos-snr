@@ -7,9 +7,9 @@
 <h2 align="center"> 📫 How to reach me: 👇👇 </h2>
 <p align='center'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tripple-boy" alt="Lewis Odero" /> 
+</p>
 <a href="https://twitter.com/_tripple_boy?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @_tripple_boy</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-</p>
 <hr>
 
 <p align='center'>
