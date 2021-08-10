@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,Programmers</h1>
 <h3 align='center'>
-  <img align='center' src = 'https://img.shields.io/twitter/follow/_tripple_boy?style=for-the-badge' target'_top'/>
-  <img align='center' src = 'https://img.shields.io/github/followers/tripple-boy?style=for-the-badge' />
+  <img target'_top' src = 'https://img.shields.io/twitter/follow/_tripple_boy?style=for-the-badge' />
+  <img target'_top' src = 'https://img.shields.io/github/followers/tripple-boy?style=for-the-badge' />
    </h3>
    
    
