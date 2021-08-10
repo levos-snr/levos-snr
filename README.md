@@ -16,7 +16,6 @@
 </p>
 <hr>
 
-[![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
 
 <p align='center' >
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
@@ -127,6 +126,7 @@
 
 #
 
+[![The MIT License](https://github.com/tripple-boy/tripple-boy/blob/master/LICENSE/orange)](http://opensource.org/licenses/MIT)
 
 
 **Credits**: [Lewis Odero](https://github.com/tripple-boy/)
