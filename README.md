@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋,Programmers</h1>
 <h3 align='center'>
     <img target'_top' src = 'https://img.shields.io/twitter/follow/_tripple_boy?style=for-the-badge' />
-      <img target'_top' src = 'https://img.shields.io/instagram/follow/_tripple_boy?style=for-the-badge' />
 
 
    </h3>
