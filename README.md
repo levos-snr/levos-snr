@@ -6,10 +6,6 @@
 </p>
 <hr>
 <h2 align="center"> 📫 How to reach me: 👇👇 </h2>
-<p align='center'>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tripple-boy" alt="Lewis Odero" /> 
-</p>
-
 
 <p align='center'>
 <a href="https://dev.to/odero"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/dev.png"></a>&nbsp;&nbsp;
