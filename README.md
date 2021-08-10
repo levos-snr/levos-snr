@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋,Programmers</h1>
 <h3 align='center'>
-   <a href="https://twitter.com/_tripple_boy?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-show-count="false">Follow @_tripple_boy</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
    </h3>
    
    
