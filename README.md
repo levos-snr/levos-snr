@@ -16,6 +16,8 @@
 </p>
 <hr>
 
+[![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
+
 <p align='center' >
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
    <img alt="React Native" src="https://img.shields.io/badge/-React_Native-007ACC?style=for-the-badge&logo=react&logoColor=white" />
