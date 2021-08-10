@@ -126,7 +126,6 @@
 
 #
 
-[![The MIT License](https://github.com/tripple-boy/tripple-boy/blob/master/LICENSE/orange)](http://opensource.org/licenses/MIT)
 
 
 **Credits**: [Lewis Odero](https://github.com/tripple-boy/)
