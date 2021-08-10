@@ -127,12 +127,6 @@
 
 
 
-<br>
-## Stargazers
-
-[![Stargazers repo roster for @tripple-boy/tripple-boy](https://reporoster.com/stars/tripple-boy/tripple-boy)](https://github.com/tripple-boy/tripple-boy/stargazers)
-
-
 **Credits**: [Lewis Odero](https://github.com/tripple-boy/)
 
 **Last Edited**: 1/07/2021
