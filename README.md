@@ -4,12 +4,12 @@
 <p align="center">
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </p>
-
+<hr>
 <h2 align="center"> 📫 How to reach me: 👇👇 </h2>
 <p align='center'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tripple-boy" alt="Lewis Odero" /> 
 </p>
-<hr>
+
 
 <p align='center'>
 <a href="https://dev.to/odero"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/dev.png"></a>&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 <a href="https://www.buymeacoffee.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/by-me-a-coffee.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/lewis-odero-5aa1241a2/"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/linkedin.png?raw=true"></a>
 </p>
-
+<hr>
 
 <p align='center' >
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
