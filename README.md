@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋,Programmers</h1>
 <h3 align='center'>
-   <iframe src="https://ghbtns.com/github-btn.html?user=tripple-boytwbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
    </h3>
    
    
