@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋,Programmers</h1>
 <h3 align='center'>
     <img target'_top' src = 'https://img.shields.io/twitter/follow/_tripple_boy?style=for-the-badge' />
+[![Twitter Follow](https://img.shields.io/twitter/follow/_tripple_boy?style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_tripple_boyr&screen_name=_tripple_boy)
 
 
    </h3>
