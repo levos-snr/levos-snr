@@ -82,7 +82,7 @@
 
 <br/>
 
-**LANGUAGES AND TOOLS:**  
+
 <br/>
 <br/>
 
