@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋,Programmers</h1>
    
 <h3 align="center">A passionate software Developer from Kenya</h3>
-<hr>
 <h2 align="center"> 📫 How to reach me: 👇👇 </h2>
-
 <p align='center'>
 <a href="https://dev.to/odero"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/_tripple_boy/"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/by-me-a-coffee.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/lewis-odero-5aa1241a2/"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/linkedin.png?raw=true"></a>
-
 </p>
 <hr>
 
