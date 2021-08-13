@@ -79,7 +79,7 @@
 
 <br/>
 <br/>
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tripple-boy&bg_color=7ea46a&color=131113&line=9d0b15&point=6a58c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br/>
