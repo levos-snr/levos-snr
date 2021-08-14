@@ -86,7 +86,11 @@
 <br/>
 
 [![tripple-boy's github activity graph](https://activity-graph.herokuapp.com/graph?username=tripple-boy&bg_color=7ea46a&color=131113&line=9d0b15&point=6a58c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align='center'>
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tripple-boy)
+   
+   </p>
 
 <br/>
 
