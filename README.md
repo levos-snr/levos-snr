@@ -54,7 +54,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/lewis-0dero-okongo" alt="profile views"> •  
+  <img src="https://gpvc.arturio.dev/tripple-boy" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/tripple-boy?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/tripple-boy?label=Stars" alt="Total Stars">
 </p>
