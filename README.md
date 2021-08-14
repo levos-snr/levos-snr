@@ -10,8 +10,8 @@
 <a href="https://www.buymeacoffee.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/by-me-a-coffee.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/lewis-odero-5aa1241a2/"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/linkedin.png?raw=true"></a>
 </p>
-<h3 align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> </h3>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> 
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/Thanks.svg/> 
 <hr>
 
