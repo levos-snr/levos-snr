@@ -17,7 +17,7 @@
 <br/>
 <hr>
 
-
+## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools:
 <p align='center' >
    <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
    <img alt="React Native" src="https://img.shields.io/badge/-React_Native-007ACC?style=for-the-badge&logo=react&logoColor=white" />
