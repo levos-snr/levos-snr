@@ -1,14 +1,20 @@
-<h1 align="center">Hi 👋,Programmers</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,Programmers</h1>
    
-<h3 align="center">A passionate software Developer from Kenya </h3>
-<h2 align="center"> 📫 How to reach me: 👇👇 </h2>
+<h3 align="center">A passionate software Developer from Kenya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h2 align="center"> <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me </h2>
+
 <p align='center'>
+   [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com)
+ [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tripple-boy)  
 <a href="https://dev.to/odero"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/_tripple_boy/"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/by-me-a-coffee.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/lewis-odero-5aa1241a2/"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/linkedin.png?raw=true"></a>
+ [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15044246/sahinur-islam) 
+   
 </p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <hr>
 
 
