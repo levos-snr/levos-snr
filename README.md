@@ -10,7 +10,7 @@
 <a href="https://www.buymeacoffee.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/by-me-a-coffee.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/lewis-odero-5aa1241a2/"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/linkedin.png?raw=true"></a>
    <p align='center'>
-   <img alt="Stack overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15766112/lewis-odero?tab=profile" />
+  <a href="https://stackoverflow.com/users/15766112/lewis-odero?tab=profile"> <img alt="Stack overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15766112/lewis-odero?tab=profile"/></a>&nbsp;&nbsp;
  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tripple-boy" />
 </p>
 </p>
