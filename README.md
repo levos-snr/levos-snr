@@ -69,7 +69,7 @@
 
 <p align="center">
   <a>
-    <img align="center" src="https://activity-data.herokuapp.com/?user=tripple-boy&theme=dark&hide_border=true"/>
+    <img align="center" src="?user=tripple-boy&theme=dark&hide_border=true"/>
   </a>
 </p>
 
