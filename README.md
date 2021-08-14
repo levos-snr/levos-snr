@@ -132,4 +132,4 @@
 **Credits**: [Lewis Odero](https://github.com/tripple-boy/)
 **Last Edited**: 1/08/2021
 </p>
-<a href="https://stackexchange.com/users/21404671"><img src="https://stackexchange.com/users/flair/21404671.png?theme=dark" width="208" height="58" alt="profile for Lewis Odero on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Lewis Odero on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/15766112/lewis-odero"><img src="https://stackoverflow.com/users/flair/15766112.png?theme=dark" width="208" height="58" alt="profile for Lewis Odero at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Lewis Odero at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
