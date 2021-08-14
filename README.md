@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,Programmers</h1>
    
-<h3 align="center">A passionate software Developer from Kenya</h3>
+<h3 align="center">A passionate software Developer from Kenya </h3>
 <h2 align="center"> 📫 How to reach me: 👇👇 </h2>
 <p align='center'>
 <a href="https://dev.to/odero"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/dev.png"></a>&nbsp;&nbsp;
@@ -48,6 +48,7 @@
 - 📫 Contact for queries : **lewisodero27@gmail.com**
 - 📝[Resume]()
 </p>
+
 
 <br/>
 <br/>
@@ -110,6 +111,5 @@
 
 
 **Credits**: [Lewis Odero](https://github.com/tripple-boy/)
-
-**Last Edited**: 1/07/2021
+**Last Edited**: 1/08/2021
 </p>
