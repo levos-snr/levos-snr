@@ -1,4 +1,7 @@
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,Programmers</h1>
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tripple-boy)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15766112/lewis-odero?tab=profile)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com)
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,Programmers<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></h1>
    
 <h3 align="center">A passionate software Developer from Kenya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <h2 align="center"> <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me </h2>
@@ -11,7 +14,7 @@
 <a href="https://www.linkedin.com/in/lewis-odero-5aa1241a2/"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/linkedin.png?raw=true"></a>
 </p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> 
+ 
 <br/>
 <hr>
 
@@ -98,9 +101,7 @@
 <br/>
 
 [![tripple-boy's github activity graph](https://activity-graph.herokuapp.com/graph?username=tripple-boy&bg_color=7ea46a&color=131113&line=9d0b15&point=6a58c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tripple-boy)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15766112/lewis-odero?tab=profile)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com)
+
    
    
 
