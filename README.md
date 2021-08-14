@@ -21,7 +21,7 @@
   <img alt="React" src="https://img.shields.io/badge/-Tailwindcss-FFD700?style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
     <img alt="React" src="https://img.shields.io/badge/-Html5-800000?style=for-the-badge&logo=html&logoColor=white" /> 
     <img alt="React" src="https://img.shields.io/badge/-Css-FF00FF?style=for-the-badge&logo=css&logoColor=white" /> 
-    <img alt="React" src="https://img.shields.io/badge/-Git-45b8d8?style=for-the-badge&logo=git&logoColor=white" /> 
+    <img alt="React" src="https://img.shields.io/badge/-Git-808000?style=for-the-badge&logo=git&logoColor=white" /> 
     <img alt="React" src="https://img.shields.io/badge/-Yarn-45b8d8?style=for-the-badge&logo=yarn&logoColor=white" /> 
     <img alt="React" src="https://img.shields.io/badge/-Npm-45b8d8?style=for-the-badge&logo=npm&logoColor=white" /> 
  </p>
