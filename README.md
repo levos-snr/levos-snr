@@ -42,7 +42,9 @@
    
  </p>
 
-
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tripple-boy)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15766112/lewis-odero?tab=profile)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com)
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/buy-me-a-coffee.png?raw=true"></a>
@@ -132,7 +134,5 @@
 **Last Edited**: 1/08/2021
 </p>
 <a href="https://stackoverflow.com/users/15766112/lewis-odero"><img src="https://stackoverflow.com/users/flair/15766112.png?theme=dark" width="208" height="58" alt="profile for Lewis Odero at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Lewis Odero at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tripple-boy)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15766112/lewis-odero?tab=profile)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com)
+
 
