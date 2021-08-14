@@ -102,7 +102,7 @@
 <br/>
 <br/>
 
-[![tripple-boy's github activity graph](https://activity-graph.herokuapp.com/graph?username=tripple-boy&bg_color=7ea46a&color=131113&line=9d0b15&point=6a58c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![tripple-boy's github activity graph](https://activity-graph.herokuapp.com/graph?username=tripple-boy&bg_color=7ea46a&color=131113&line=9d0b15&point=6a58c6&area=true&hide_border=true)](https://github.com/tripple-boy/github-readme-activity-graph)
 
    
    
@@ -113,7 +113,7 @@
 
 <details open="">
 <summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
+<!--   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>  -->
   <strong>Github Stats : </strong>
 </summary>
 <br>
@@ -130,7 +130,8 @@
 <br>
 
 #
-<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/Thanks.svg"/> 
+<a href="#">
+<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/Thanks.svg"/> </a>
 
 **Credits**: [Lewis Odero](https://github.com/tripple-boy/)
 **Last Edited**: 1/08/2021
