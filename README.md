@@ -4,13 +4,13 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me </h2>
 
 <p align='center'>
-   <img alt="Github" height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tripple-boy" />
+   <img alt="Github" height="30"  width="30"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tripple-boy" />
 <a href="https://dev.to/odero"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/_tripple_boy/"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/by-me-a-coffee.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/lewis-odero-5aa1241a2/"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/linkedin.png?raw=true"></a>
-   <img alt="Stack overflow" height="30" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15766112/lewis-odero?tab=profile" />
+   <img alt="Stack overflow" height="30" width="30"src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15766112/lewis-odero?tab=profile" />
 </p>
 
  
@@ -61,7 +61,7 @@
 - 💬 Ask me about Anything : **[here](https://github.com/tripple-boy/lewis-0dero-okongo/issues)!** I am happy to help.
 - 😄 Pronouns : **He/His/Him**
 - ⚡ Fun fact : *Best Part Of The Journey Is : **It Ends***
-- 📫 Contact for queries : **<img alt="Mail" height="30"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com" />**
+- 📫 Contact for queries : **<img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com" />**
 - 📝[Resume]()
 </p>
 
