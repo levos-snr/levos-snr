@@ -1,7 +1,7 @@
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,Programmers<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></h1>
+<h1 align="center">Hi  <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,Programmers<a href="#"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></a></h1>
    
-<h3 align="center">A passionate software Developer from Kenya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-<h2 align="center"> <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me </h2>
+<h3 align="center">A passionate software Developer from Kenya <a href="#"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></a></h3>
+<h2 align="center"> <a href="#"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> </a>Connect with Me </h2>
 
 <p align='center'>
 <a href="https://dev.to/odero"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/dev.png"></a>&nbsp;&nbsp;
@@ -71,14 +71,17 @@
 <br/>
 
 <p align="center">
+   <a href="#">
   <img src="https://gpvc.arturio.dev/tripple-boy" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/tripple-boy?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/tripple-boy?label=Stars" alt="Total Stars">
+   </a>
 </p>
 <p align="center">
   <code>
+     <a href="#">
     <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Ftripple-boy" alt="Github Profile Score">
-     
+     </a> 
   </code>
 </p>
 
@@ -86,7 +89,7 @@
 
 
 <p align="center">
-  <a>
+  <a href="#">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripple-boy&theme=dark&hide_border=true"/>
   </a>
 </p>
