@@ -17,7 +17,7 @@
    <img alt="React Native" src="https://img.shields.io/badge/-React_Native-007ACC?style=for-the-badge&logo=react&logoColor=white" />
    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="Next JS" src="https://img.shields.io/badge/-Next_JS-000000?style=for-the-badge&logo=nextjs&logoColor=white" />
- <img alt="React" src="https://img.shields.io/badge/-Reactjs-45b8d8?style=for-the-badge&logo=reactjs&logoColor=white" /> 
+ <img alt="React" src="https://img.shields.io/badge/-Reactjs-FF0000?style=for-the-badge&logo=reactjs&logoColor=white" /> 
   <img alt="React" src="https://img.shields.io/badge/-Tailwindcss-45b8d8?style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
     <img alt="React" src="https://img.shields.io/badge/-Html5-45b8d8?style=for-the-badge&logo=html&logoColor=white" /> 
     <img alt="React" src="https://img.shields.io/badge/-Css-45b8d8?style=for-the-badge&logo=css&logoColor=white" /> 
