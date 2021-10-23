@@ -67,7 +67,7 @@
 - 😄 Pronouns : **He/His/Him**
 - ⚡ Fun fact : *Best Part Of The Journey Is : **It Ends***
 - 📫 Contact for queries : **&nbsp;&nbsp;<a href="mailto:lewisodero27@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com" /></a>&nbsp;&nbsp;**
-- 📝[Resume](#)
+- 📝[Resume](https://www.linkedin.com/in/lewis-odero-5aa1241a2)
 </p>
 
 
