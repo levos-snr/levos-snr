@@ -3,9 +3,9 @@
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"</g-emoji> 
   <strong>Collapse Profile : </strong>
 </summary>
-<h2 align="center">Hey  <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,Programmers<a href="#"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></a></h2>
+<h2 align="center">Hey  <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> .<a href="#"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></a></h2>
    
-<h3 align="center">I am a passionate software Developer from Kenya <a href="#"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></a></h3>
+<h3 align="center">I am a passionate Developer <a href="#"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></a></h3>
 <h2 align="center"> <a href="#"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> </a>Connect with Me </h2>
 
 <p align='center'>
@@ -59,8 +59,8 @@
 
 <p align="right">
 
-- 🔭 I’m currently working on **Frontend Developer, ReactJS , Redux and Nodejs**
-- 🌱 I’m currently learning **Next js,Javascript ,Tailwind and React js**
+- 🔭 I’m currently working on **Frontend Developer, ReactJS , Tailwindcss and Nodejs**
+- 🌱 I’m currently learning **Next js,Javascript ,Tailwindcss and React js**
 - 👯 I’m looking to collaborate on **Web Developers and open source collaborators**
 - 🤔 I’m looking for help with **Internships or work**
 - 💬 Ask me about Anything : **[here](https://github.com/tripple-boy/lewis-0dero-okongo/issues)!** I am happy to help.
