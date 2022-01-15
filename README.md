@@ -118,7 +118,8 @@
 <br>
   #
   
-    **Credits**:<a href="https://github.com/tripple-boy"> [Lewis Odero](https://github.com/tripple-boy/) </a>
+    **Credits**:
+ [![Lewis Odero](https://github.com/tripple-boy/)](#)
 **Last Edited**: 15/01/2022
 </p>
 
