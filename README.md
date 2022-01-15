@@ -8,19 +8,6 @@
 <h3 align="center">I am a passionate Developer <a href="#"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></a></h3>
 <h2 align="center"> <a href="#"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> </a>Connect with Me </h2>
 
-<p align='center'>
-<a href="https://dev.to/odero"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/_tripple_boy/"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/lewis-odero-5aa1241a2/"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/linkedin.png?raw=true"></a>
-   <p align='center'>
-  <a href="https://stackoverflow.com/users/15766112/lewis-odero?tab=profile"> <img alt="Stack overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15766112/lewis-odero?tab=profile"/></a>&nbsp;&nbsp;
-<a href="https://github.com/tripple-boy"> <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tripple-boy" /></a>&nbsp;&nbsp;
-</p>
-</p>
-<br/>
-<hr>
 
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools:
 <p align='center' >
