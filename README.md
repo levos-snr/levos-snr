@@ -116,12 +116,9 @@
 </p>
 </details>
 <br>
-
-#
-
 **Credits**: [Lewis Odero](https://github.com/tripple-boy/) 
 **Last Edited**: 15/01/2022
 </p>
-<a href="https://stackoverflow.com/users/15766112/lewis-odero"><img src="https://stackoverflow.com/users/flair/15766112.png?theme=dark" width="208" height="58" alt="profile for Lewis Odero at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Lewis Odero at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 
 
