@@ -118,7 +118,7 @@
 <br>
   
   
-**Credits**: [[Lewis Odero](https://github.com/tripple-boy/)] <br>
+**Credits**: [Lewis Odero](https://github.com/tripple-boy/) <br>
 **Last Edited**: 15/01/2022
 </p>
 
