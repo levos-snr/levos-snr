@@ -117,8 +117,8 @@
 </details>
 <br>
   #
-  <a href="https://github.com/tripple-boy">
-    **Credits**: [Lewis Odero](https://github.com/tripple-boy/) </a>
+  
+    **Credits**:<a href="https://github.com/tripple-boy"> [Lewis Odero](https://github.com/tripple-boy/) </a>
 **Last Edited**: 15/01/2022
 </p>
 
