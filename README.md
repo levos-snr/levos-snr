@@ -3,7 +3,7 @@
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"</g-emoji> 
   <strong>Collapse Profile : </strong>
 </summary>
-<h2 align="center">Hey  <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a><a href="#"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></a></h2>
+<h2 align="center">Hey  <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
 
 
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools:
@@ -118,11 +118,9 @@
 <br>
 
 #
-<a href="#">
-<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/Thanks.svg"/> </a>
 
 **Credits**: [Lewis Odero](https://github.com/tripple-boy/)
-**Last Edited**: 1/08/2021.
+**Last Edited**: 15/01/2022.
 </p>
 <a href="https://stackoverflow.com/users/15766112/lewis-odero"><img src="https://stackoverflow.com/users/flair/15766112.png?theme=dark" width="208" height="58" alt="profile for Lewis Odero at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Lewis Odero at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
