@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/24501160-254d-46ce-936b-adf8d527d84f.svg)](https://wakatime.com/@24501160-254d-46ce-936b-adf8d527d84f)
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"</g-emoji> 
@@ -70,7 +71,6 @@
      <a href="#">
     <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Ftripple-boy" alt="Github Profile Score">
      </a> 
-    [![wakatime](https://wakatime.com/badge/tripple-boy/24501160-254d-46ce-936b-adf8d527d84f.svg)](https://wakatime.com/@24501160-254d-46ce-936b-adf8d527d84f)
   </code>
 </p>
 
