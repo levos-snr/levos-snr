@@ -3,7 +3,6 @@
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"</g-emoji> 
   <strong>Collapse Profile : </strong>
 </summary>
-  [![wakatime](https://wakatime.com/badge/user/24501160-254d-46ce-936b-adf8d527d84f.svg)](https://wakatime.com/@24501160-254d-46ce-936b-adf8d527d84f)
 <h2 align="center">Hey  <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
 
 
@@ -114,6 +113,7 @@
   <a href="https://github.com/tripple-boy">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripple-boy&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
+  [![wakatime](https://wakatime.com/badge/user/24501160-254d-46ce-936b-adf8d527d84f.svg)](https://wakatime.com/@24501160-254d-46ce-936b-adf8d527d84f)
 </p>
 </details>
 <br>
