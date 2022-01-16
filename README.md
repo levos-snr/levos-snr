@@ -70,6 +70,7 @@
      <a href="#">
     <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Ftripple-boy" alt="Github Profile Score">
      </a> 
+    [![wakatime](https://wakatime.com/badge/tripple-boy/24501160-254d-46ce-936b-adf8d527d84f.svg)](https://wakatime.com/@24501160-254d-46ce-936b-adf8d527d84f)
   </code>
 </p>
 
@@ -113,7 +114,6 @@
   <a href="https://github.com/tripple-boy">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripple-boy&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
-  [![wakatime](https://wakatime.com/badge/user/24501160-254d-46ce-936b-adf8d527d84f.svg)](https://wakatime.com/@24501160-254d-46ce-936b-adf8d527d84f)
 </p>
 </details>
 <br>
