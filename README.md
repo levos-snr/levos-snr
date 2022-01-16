@@ -3,6 +3,7 @@
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"</g-emoji> 
   <strong>Collapse Profile : </strong>
 </summary>
+  [![wakatime](https://wakatime.com/badge/user/24501160-254d-46ce-936b-adf8d527d84f.svg)](https://wakatime.com/@24501160-254d-46ce-936b-adf8d527d84f)
 <h2 align="center">Hey  <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
 
 
