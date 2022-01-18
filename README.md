@@ -83,16 +83,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripple-boy&theme=dark&hide_border=true"/>
   </a>
 </p>
-     
- <!--START_SECTION:waka-->
-```text
-Other        14 hrs 57 mins  ████████████████████████▒   97.81 % 
-JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-```
-<!--END_SECTION:waka-->
- 
+
 
 #
 
@@ -124,6 +115,16 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
   </a>
 
 </p>
+       
+ <!--START_SECTION:waka-->
+```text
+Other        14 hrs 57 mins  ████████████████████████▒   97.81 % 
+JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+```
+<!--END_SECTION:waka-->
+ 
 </details>
 <br>
 
