@@ -83,7 +83,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripple-boy&theme=dark&hide_border=true"/>
   </a>
 </p>
-    <p align="center" padding="3px">   
+     
  <!--START_SECTION:waka-->
 ```text
 Other        14 hrs 57 mins  ████████████████████████▒   97.81 % 
@@ -92,7 +92,7 @@ CSS          3 mins          ░░░░░░░░░░░░░░░░░
 JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 <!--END_SECTION:waka-->
-  </p>
+ 
 
 #
 
