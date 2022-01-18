@@ -72,6 +72,7 @@
     <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Ftripple-boy" alt="Github Profile Score">
      </a> 
   </code>
+
 </p>
 
 #
@@ -82,6 +83,16 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripple-boy&theme=dark&hide_border=true"/>
   </a>
 </p>
+    <p align="center" padding="3px">   
+ <!--START_SECTION:waka-->
+```text
+Other        14 hrs 57 mins  ████████████████████████▒   97.81 % 
+JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+```
+<!--END_SECTION:waka-->
+  </p>
 
 #
 
@@ -115,16 +126,8 @@
 </p>
 </details>
 <br>
-    <p  align="center">
- <!--START_SECTION:waka-->
-```text
-Other        14 hrs 57 mins  ████████████████████████▒   97.81 % 
-JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-```
-<!--END_SECTION:waka-->
-  </p>
+
+  
   
   
 **Credits**: [Lewis Odero](https://github.com/tripple-boy/) <br>
