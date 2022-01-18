@@ -112,8 +112,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tripple-boy&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
  <!--START_SECTION:waka-->
-  
-  
 <!--END_SECTION:waka-->
 </p>
 </details>
