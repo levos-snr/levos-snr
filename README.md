@@ -57,15 +57,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/tripple-boy?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/tripple-boy?label=Stars" alt="Total Stars">
    </a>
-</p>
-<p align="center">
-  <code>
-     <a href="#">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Ftripple-boy" alt="Github Profile Score">
-     </a> 
-  </code>
 
-</p>
 
 #
 
