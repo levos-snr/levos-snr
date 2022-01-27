@@ -27,7 +27,7 @@
  </p>
 
 <p align="center">
- <a href="https://www.buymeacoffee.com/_tripple_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/buy-me-a-coffee.png?raw=true"></a>
+ <a href="https://www.buymeacoffee.com/the_coding_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/buy-me-a-coffee.png?raw=true"></a>
 </p>
 
   <br/>
