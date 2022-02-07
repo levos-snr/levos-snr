@@ -102,10 +102,7 @@
        
  <!--START_SECTION:waka-->
 ```text
-Other        71 hrs 20 mins  ████████████████████████▓   98.54 % 
-JavaScript   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-JSON         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+
 ```
 <!--END_SECTION:waka-->
  
