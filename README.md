@@ -36,9 +36,8 @@
 
 <p align="right">
   <p align="left">
-
   <a href="https://app.daily.dev/the_coding_boy"><img src="https://api.daily.dev/devcards/eebe7710ab43402bae959141fae055d2.png?r=2ee" width="400" alt="Lewis Odero's Dev Card"/></a>
-    </>
+    </p>
 
 - 🔭 I’m currently working on **Frontend Developer, ReactJS , Tailwindcss and Nodejs**
 - 🌱 I’m currently learning **Next js,Javascript ,Tailwindcss and React js**
