@@ -5,6 +5,8 @@
   <strong>Collapse Profile : </strong>
 </summary>
 <h2 align="center">Hey  <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
+
+
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools:
 <p align='center' >
    <a href="#"> 
@@ -23,13 +25,17 @@
     <img alt="Google Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
    </a>
  </p>
+
 <p align="center">
  <a href="https://www.buymeacoffee.com/the_coding_boy"><img height="30" src="https://github.com/tripple-boy/tripple-boy/blob/master/icon/buy-me-a-coffee.png?raw=true"></a>
 </p>
+
   <br/>
+
 <br />
 
 <p align="right">
+
 - 🔭 I’m currently working on **Frontend Developer, ReactJS , Tailwindcss and Nodejs**
 - 🌱 I’m currently learning **Next js,Javascript ,Tailwindcss and React js**
 - 👯 I’m looking to collaborate on **Web Developers and open source collaborators**
@@ -40,29 +46,46 @@
 - 📫 Contact for queries : **&nbsp;&nbsp;<a href="mailto:lewisodero27@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com" /></a>&nbsp;&nbsp;**
 - 📝[Resume](https://www.linkedin.com/in/lewis-odero-5aa1241a2)
 </p>
+
+
 <br/>
 <br/>
+
 <p align="center">
    <a href="#">
   <img src="https://gpvc.arturio.dev/tripple-boy" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/tripple-boy?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/tripple-boy?label=Stars" alt="Total Stars">
    </a>
+
+
 #
+
+
 <p align="center">
   <a href="#">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripple-boy&theme=dark&hide_border=true"/>
   </a>
 </p>
+
+
 #
+
+<br/>
+
+
 <br/>
 <br/>
-<br/>
+
 [![tripple-boy's github activity graph](https://activity-graph.herokuapp.com/graph?username=tripple-boy&bg_color=7ea46a&color=131113&line=9d0b15&point=6a58c6&area=true&hide_border=true)](#)
+
    
    
+
 <br/>
+
 #
+
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
@@ -74,18 +97,24 @@
   <a href="https://github.com/tripple-boy">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tripple-boy&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
+
 </p>
        
  <!--START_SECTION:waka-->
 ```text
+
 ```
 <!--END_SECTION:waka-->
  
 </details>
 <br>
+
   
   
   
 **Credits**: [Lewis Odero](https://github.com/tripple-boy/) <br>
 **Last Edited**: 15/01/2022
 </p>
+
+
+
