@@ -35,7 +35,7 @@
 <br />
 
 <p align="right">
-  <p align="left">
+  <p align="right">
   <a href="https://app.daily.dev/the_coding_boy"><img src="https://api.daily.dev/devcards/eebe7710ab43402bae959141fae055d2.png?r=2ee" width="400" alt="Lewis Odero's Dev Card"/></a>
     </p>
 
