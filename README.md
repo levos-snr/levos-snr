@@ -33,12 +33,10 @@
   <br/>
 
 <br />
+  
+  <p align='center' >
 
 <p align="right">
-  <p align="right">
-  <a href="https://app.daily.dev/the_coding_boy"><img src="https://api.daily.dev/devcards/eebe7710ab43402bae959141fae055d2.png?r=2ee" width="400" alt="Lewis Odero's Dev Card"/></a>
-    </p>
-
 - 🔭 I’m currently working on **Frontend Developer, ReactJS , Tailwindcss and Nodejs**
 - 🌱 I’m currently learning **Next js,Javascript ,Tailwindcss and React js**
 - 👯 I’m looking to collaborate on **Web Developers and open source collaborators**
@@ -49,8 +47,10 @@
 - 📫 Contact for queries : **&nbsp;&nbsp;<a href="mailto:lewisodero27@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com" /></a>&nbsp;&nbsp;**
 - 📝[Resume](https://www.linkedin.com/in/lewis-odero-5aa1241a2)
 </p>
-
-
+    <p align="right">
+  <a href="https://app.daily.dev/the_coding_boy"><img src="https://api.daily.dev/devcards/eebe7710ab43402bae959141fae055d2.png?r=2ee" width="400" alt="Lewis Odero's Dev Card"/></a>
+    </p>
+</p>
 <br/>
 <br/>
 
