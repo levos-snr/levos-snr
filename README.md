@@ -101,9 +101,12 @@
 </p>
        
  <!--START_SECTION:waka-->
-```text
 
+```text
+JavaScript   50 mins         ██████████████████████▓░░   91.07 %
+Other        4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
 ```
+
 <!--END_SECTION:waka-->
  
 </details>
