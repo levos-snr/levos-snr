@@ -38,10 +38,7 @@
 
 - 🔭 I’m currently working on **Frontend Developer, ReactJS , Tailwindcss and Nodejs**
 - 🌱 I’m currently learning **Next js,Javascript ,Tailwindcss and React js**
-- 👯 I’m looking to collaborate on **Web Developers and open source collaborators**
-- 🤔 I’m looking for help with **Internships or work**
 - 💬 Ask me about Anything : **[here](https://github.com/levos-snr/levos-snr/issues)!** I am happy to help.
-- 😄 Pronouns : **He/His/Him**
 - ⚡ Fun fact : *Best Part Of The Journey Is : **It Ends***
 - 📫 Contact for queries : **&nbsp;&nbsp;<a href="mailto:lewisodero27@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com" /></a>&nbsp;&nbsp;**
 - 📝[Resume](https://www.linkedin.com/in/lewis-odero-developer)
