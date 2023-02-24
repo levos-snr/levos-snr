@@ -57,11 +57,11 @@
   </p>
 
 #
-
-<a align="center" href="#"
+<p align="center">
+<a href="#">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=levos-snr&theme=nightowl&hide_border=true&border_radius=4.1)](https://git.io/streak-stats)
    </a>
-
+  </p>
 
 #
 
