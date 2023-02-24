@@ -43,8 +43,7 @@
 - 📫 Contact for queries : **&nbsp;&nbsp;<a href="mailto:lewisodero27@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com" /></a>&nbsp;&nbsp;**
 - 📝[Resume](https://www.linkedin.com/in/lewis-odero-developer)
 </p>
-
-<br/>
+#
 <br/>
 
 <p align="center">
@@ -54,11 +53,7 @@
   <img src="https://img.shields.io/github/stars/levos-snr?label=Stars" alt="Total Stars">
    </a>
   </p>
-
 <br/>   
-
-<br/>
-
 #
 
 <details open="">
