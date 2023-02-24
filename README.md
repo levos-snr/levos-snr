@@ -44,11 +44,11 @@
 - 📝[Resume](https://www.linkedin.com/in/lewis-odero-developer)
 </p>
 <br/>
-
   
   #
   #
   
+<br/>
 <p align="center">
    <a href="#">
   <img src="https://gpvc.arturio.dev/levos-snr" alt="profile views"> •  
@@ -57,7 +57,6 @@
    </a>
   </p>
 <br/>
-
   
   #
   #
