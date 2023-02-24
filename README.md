@@ -43,9 +43,10 @@
 - 📫 Contact for queries : **&nbsp;&nbsp;<a href="mailto:lewisodero27@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com" /></a>&nbsp;&nbsp;**
 - 📝[Resume](https://www.linkedin.com/in/lewis-odero-developer)
 </p>
-#
+<br/>
 <br/>
 
+  
 <p align="center">
    <a href="#">
   <img src="https://gpvc.arturio.dev/levos-snr" alt="profile views"> •  
@@ -53,7 +54,8 @@
   <img src="https://img.shields.io/github/stars/levos-snr?label=Stars" alt="Total Stars">
    </a>
   </p>
-<br/>   
+<br/>
+<br/>
 #
 
 <details open="">
@@ -61,7 +63,7 @@
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
   <strong>Github Stats : </strong>
 </summary>
-<br>
+</br>
   
 <p align="center">
   <a href="https://github.com/levos-snr">
