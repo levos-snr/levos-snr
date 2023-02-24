@@ -54,15 +54,15 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/levos-snr?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/levos-snr?label=Stars" alt="Total Stars">
    </a>
-
+  </p>
 
 #
 
 
-
+<p align="center">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=levos-snr&theme=nightowl&hide_border=true&border_radius=4.1)](https://git.io/streak-stats)
 
-
+</p>
 
 
 #
