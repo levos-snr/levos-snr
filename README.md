@@ -42,6 +42,8 @@
 - ⚡ Fun fact : *Best Part Of The Journey Is : **It Ends***
 - 📫 Contact for queries : **&nbsp;&nbsp;<a href="mailto:lewisodero27@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com" /></a>&nbsp;&nbsp;**
 - 📝[Resume](https://www.linkedin.com/in/lewis-odero-developer)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=levos-snr&theme=nightowl&hide_border=true&border_radius=4.1)](https://git.io/streak-stats)
+
 </p>
 
 
@@ -57,11 +59,9 @@
   </p>
 
 #
-<p align="center">
-<a href="#">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=levos-snr&theme=nightowl&hide_border=true&border_radius=4.1)](https://git.io/streak-stats)
-   </a>
-  </p>
+
+
+   
 
 #
 
