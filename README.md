@@ -44,8 +44,7 @@
 - 📝[Resume](https://www.linkedin.com/in/lewis-odero-developer)
 </p>
 <br/>
-<br/>
-<br>
+
   
   #
   #
@@ -58,8 +57,7 @@
    </a>
   </p>
 <br/>
-<br/>
-<br>
+
   
   #
   #
