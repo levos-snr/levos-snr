@@ -58,9 +58,9 @@
 
 #
 
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=levos-snr&theme=nightowl&hide_border=true&border_radius=4.1&align=center)](https://git.io/streak-stats)
-
+<a align="center" href="#"
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=levos-snr&theme=nightowl&hide_border=true&border_radius=4.1)](https://git.io/streak-stats)
+   </a>
 
 
 #
