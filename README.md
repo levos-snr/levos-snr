@@ -79,7 +79,7 @@
   <a href="https://github.com/levos-snr">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=levos-snr&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=levos-snr&theme=nightowl&hide_border=true&border_radius=4.1)](https://git.io/streak-stats)
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=levos-snr&theme=nightowl&hide_border=true&border_radius=4.1" />
 
 </p>
        
