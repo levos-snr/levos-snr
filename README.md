@@ -79,7 +79,11 @@
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Kotlin       1 hr 38 mins    █████████████░░░░░░░░░░░░   51.57 %
+JavaScript   1 hr 21 mins    ██████████▓░░░░░░░░░░░░░░   42.82 %
+CSS          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
