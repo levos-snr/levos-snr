@@ -51,7 +51,7 @@
 <br/>
 <p align="center">
    <a href="#">
-  <img src="https://gpvc.arturio.dev/levos-snr" alt="profile views"> •  
+<!--   <img src="https://gpvc.arturio.dev/levos-snr" alt="profile views"> •   -->
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/levos-snr?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/levos-snr?label=Stars" alt="Total Stars">
    </a>
