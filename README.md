@@ -87,8 +87,6 @@ JSON         9 mins          ██▓░░░░░░░░░░░░░░
 SCSS         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 ```
 
-[![wakatime](https://wakatime.com/badge/user/24501160-254d-46ce-936b-adf8d527d84f.svg)](https://wakatime.com/@24501160-254d-46ce-936b-adf8d527d84f)
-
 <!--END_SECTION:waka-->
 
 </details>
