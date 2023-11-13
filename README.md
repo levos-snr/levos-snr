@@ -1,8 +1,7 @@
 <!-- @format -->
 <!-- Add the following HTML tag to control the image dimensions -->
-<img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="100%" height="400">
-
-<!-- ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools: -->
+<!-- <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="100%" height="400"> -->
+<img src="https://github.com/levos-snr/levos-snr/blob/master/icon/cdckoo4r.gif" width="100%" height="400"> 
 
 ##
 
