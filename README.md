@@ -72,8 +72,15 @@
   <a href="https://github.com/levos-snr">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=levos-snr&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
+    <a href="https://github.com/levos-snr"> 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=levos-snr&theme=nightowl&hide_border=true&border_radius=4.1" />
+  </a>
 
+<a href="https://github.com/levos-snr"> 
+ <img align="center" src="[https://github-readme-streak-stats.herokuapp.com?user=levos-snr&theme=nightowl&hide_border=true&border_radius=4.1](https://github-readme-stats.vercel.app/api/top-langs/?username=levos-snr&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" />
+  </a>
+ </a>
+   
 </p>
        
  <!--START_SECTION:waka-->
@@ -92,6 +99,10 @@ JSON         35 mins         █░░░░░░░░░░░░░░░░
 <br>
 
 **Credits**: [Lewis Odero](https://github.com/levos-snr/) <br>
-**Last Edited**: 15/01/2022
+**Last Edited**: 26/12/2023
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 
 </p>
