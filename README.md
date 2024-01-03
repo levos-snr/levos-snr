@@ -51,7 +51,7 @@
 </summary>
 </br>
   
-<p align="center">
+  <p align="center">
 <p align="center">
   <p align="left">
   <a href="https://github.com/levos-snr">
@@ -60,7 +60,7 @@
   </p>
   <p align="right">
     <a href="https://github.com/levos-snr"> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=levos-snr&theme=nightowl&hide_border=true&border_radius=4.1" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=levos-snr&theme=chartreuse-dark&hide_border=true&border_radius=4.0" />
   </a>
   </p>
 </p>  
