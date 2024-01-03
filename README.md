@@ -1,26 +1,26 @@
 <!-- @format -->
 
 <!-- Introduction -->
-<p align="center">
+<div align="center">
   <img src="https://github.com/levos-snr/levos-snr/blob/master/icon/cdckoo4r.gif" width="100%" height="400">
-</p>
+</div>
 
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools:
 
-<p align='center'>
+<div align='center'>
   <a href="#"> 
     <img alt="Next JS" src="https://img.shields.io/badge/-Next_JS-000000?style=for-the-badge&logo=nextjs&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
     <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-00E719?style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
     <img alt="Google Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://www.buymeacoffee.com/levos_snr">
     <img height="30" src="https://github.com/levos-snr/levos-snr/blob/master/icon/buy-me-a-coffee.png?raw=true">
   </a>
-</p>
+</div>
 
 
 
@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-<p align="right">
+<div align="right">
 
 - 🔭 I’m currently working on **Frontend Developer, ReactJS, Tailwindcss, and Nodejs**
 - 🌱 I’m currently learning **Next.js, Javascript, Tailwindcss, and React.js**
@@ -36,7 +36,7 @@
 - ⚡ Fun fact: *Best Part Of The Journey Is: **It Ends***
 - 📫 Contact for queries: &nbsp;&nbsp;<a href="mailto:lewisodero27@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com" /></a>&nbsp;&nbsp;
 - 📝 [Resume](https://www.linkedin.com/in/lewis-odero-developer)
-</p>
+</div>
 <br/>
 
   
@@ -51,8 +51,9 @@
 </summary>
 </br>
   
-<p align="center">
+<div align="center">
   <!-- First row with GitHub Stats and GitHub Streak -->
+<div align="center">
   <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/levos-snr">
       <img src="https://github-readme-stats.vercel.app/api?username=levos-snr&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
@@ -61,14 +62,14 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=levos-snr&theme=chartreuse-dark&hide_border=true&border_radius=4.0" />
     </a>
   </div>
-
+</div>
   <!-- Second row with Top Languages occupying full width -->
-  <p align="center">
+  <div align="center">
   <a href="https://github.com/levos-snr" style="width: 100%; align: center;"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levos-snr&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
-  </p>  
-</p>
+  </div>  
+</div>
 
 
 
@@ -94,4 +95,4 @@ Other        18 mins         ▒░░░░░░░░░░░░░░░░
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-</p>
+
