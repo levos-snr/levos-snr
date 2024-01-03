@@ -2,7 +2,7 @@
 
 <!-- Introduction -->
 <div align="center">
-  <img src="https://github.com/levos-snr/levos-snr/blob/master/icon/cdckoo4r.gif" width="100%" height="400">
+  <img src="https://github.com/levos-snr/levos-snr/blob/master/icon/github.gif" width="100%" height="400">
 </div>
 
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools:
