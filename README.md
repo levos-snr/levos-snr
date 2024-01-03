@@ -64,9 +64,9 @@
   </div>
 </p>
   <!-- Second row with Top Languages occupying full width -->
-  <div style="align:center;">
+  <div style="align:center;"  width="100%" height="200" >
   <a href="https://github.com/levos-snr" style="align: center;"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levos-snr&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="100%" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levos-snr&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
   </a>
   </div>  
 </p>
