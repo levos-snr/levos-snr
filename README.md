@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-<div align="right">
+<p align="right">
 
 - 🔭 I’m currently working on **Frontend Developer, ReactJS, Tailwindcss, and Nodejs**
 - 🌱 I’m currently learning **Next.js, Javascript, Tailwindcss, and React.js**
@@ -36,7 +36,7 @@
 - ⚡ Fun fact: *Best Part Of The Journey Is: **It Ends***
 - 📫 Contact for queries: &nbsp;&nbsp;<a href="mailto:lewisodero27@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisodero27@gmail.com" /></a>&nbsp;&nbsp;
 - 📝 [Resume](https://www.linkedin.com/in/lewis-odero-developer)
-</div>
+</p>
 <br/>
 
   
@@ -51,7 +51,7 @@
 </summary>
 </br>
   
-<div align="center">
+<p align="center">
   <!-- First row with GitHub Stats and GitHub Streak -->
 <div align="center">
   <div style="display: flex; justify-content: space-between;">
@@ -69,7 +69,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levos-snr&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
   </div>  
-</div>
+</p>
 
 
 
@@ -95,4 +95,4 @@ Other        18 mins         ▒░░░░░░░░░░░░░░░░
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-
+</div>
