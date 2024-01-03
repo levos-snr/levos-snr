@@ -53,7 +53,7 @@
   
 <p align="center">
   <!-- First row with GitHub Stats and GitHub Streak -->
-<div align="center">
+<p align="center">
   <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/levos-snr">
       <img src="https://github-readme-stats.vercel.app/api?username=levos-snr&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
@@ -62,7 +62,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=levos-snr&theme=chartreuse-dark&hide_border=true&border_radius=4.0" />
     </a>
   </div>
-</div>
+</p>
   <!-- Second row with Top Languages occupying full width -->
   <div align="center">
   <a href="https://github.com/levos-snr" style="width: 100%; align: center;"> 
