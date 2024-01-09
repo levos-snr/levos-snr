@@ -17,9 +17,6 @@
 </div>
 
 
-
-<!-- About Me -->
-<br/>
 <br/>
 
 
@@ -42,7 +39,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=levos-snr&show_icons=true&hide_border=true&amp&theme=chartreuse-dark&count_private=true&include_all_commits=true"/>
     </a>
     <a href="https://github.com/levos-snr"> 
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=levos-snr&theme=chartreuse-dark&hide_border=true&border_radius=4.0" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=levos-snr&hide_border=true&border_radius=4.0" />
     </a>
   </div>
 </p>
