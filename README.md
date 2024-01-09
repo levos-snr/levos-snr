@@ -27,11 +27,11 @@
 <p align="center">
   <!-- First row with GitHub Stats and GitHub Streak -->
   <div style="display: flex; justify-content: space-between; max-width: 800px; margin: auto;">
-    <a href="https://github.com/levos-snr" style="width: 48%; height: 200px; overflow: hidden;">
-      <img src="https://github-readme-stats.vercel.app/api?username=levos-snr&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" style="width: 100%; height: 100%; object-fit: cover;" />
+    <a href="https://github.com/levos-snr" style="flex: 1; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=levos-snr&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" style="width: 100%; height: 100%;" />
     </a>
-    <a href="https://github.com/levos-snr" style="width: 48%; height: 200px; overflow: hidden;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levos-snr&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 100%; height: 100%; object-fit: cover;" />
+    <a href="https://github.com/levos-snr" style="flex: 1; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levos-snr&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 100%; height: 100%;" />
     </a>
   </div>
 </p>
