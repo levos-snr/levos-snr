@@ -26,16 +26,14 @@
   
 <p align="center">
   <!-- First row with GitHub Stats and GitHub Streak -->
-<p align="center">
   <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/levos-snr">
-      <img src="https://github-readme-stats.vercel.app/api?username=levos-snr&show_icons=true&hide_border=true&amp&theme=chartreuse-dark&count_private=true&include_all_commits=true"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=levos-snr&show_icons=true&hide_border=true&amp&theme=chartreuse-dark&count_private=true&include_all_commits=true" />
     </a>
-   <a href="https://github.com/levos-snr" style="align: center;"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levos-snr&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-  </a>
+    <a href="https://github.com/levos-snr" style="align-items: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levos-snr&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+    </a>
   </div>
-</p> 
 </p>
 
 
