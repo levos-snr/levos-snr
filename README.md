@@ -16,13 +16,6 @@
   </a>
 </div>
 
-
-<br/>
-
-
-  #
-  #
-
 <!-- GitHub Stats and Contribution -->
 <details open="">
 <summary>
@@ -38,17 +31,11 @@
     <a href="https://github.com/levos-snr">
       <img src="https://github-readme-stats.vercel.app/api?username=levos-snr&show_icons=true&hide_border=true&amp&theme=chartreuse-dark&count_private=true&include_all_commits=true"/>
     </a>
-    <a href="https://github.com/levos-snr"> 
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=levos-snr&hide_border=true&border_radius=4.0" />
-    </a>
-  </div>
-</p>
-  <!-- Second row with Top Languages occupying full width -->
-  <div style="align:center;">
-  <a href="https://github.com/levos-snr" style="align: center;"> 
+   <a href="https://github.com/levos-snr" style="align: center;"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levos-snr&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"  width ="100%" height="200"/>
   </a>
-  </div>  
+  </div>
+</p> 
 </p>
 
 
@@ -72,7 +59,5 @@ Other        1 hr 40 mins    █▒░░░░░░░░░░░░░░░
 **Credits**: [Lewis Odero](https://github.com/levos-snr/) <br>
 **Last Edited**: 26/12/2023
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 </div>
