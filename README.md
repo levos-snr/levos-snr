@@ -39,7 +39,7 @@
 
 
 
-<!-- Wakatime Stats -->  
+<!--  Stats -->  
  <!--START_SECTION:waka-->
 
 ```txt
@@ -56,7 +56,5 @@ Markdown     1 hr 55 mins    █▒░░░░░░░░░░░░░░░
 <br>
 
 **Credits**: [Lewis Odero](https://github.com/levos-snr/) <br>
-**Last Edited**: 26/12/2023
+**Last Edited**: 23/1/2024
 
-
-</div>
