@@ -43,11 +43,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Julia        7 hrs 59 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.71 %
-JavaScript   7 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.34 %
-HTML         5 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
-Markdown     1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-JSON         1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+TypeScript   8 hrs 38 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
+Julia        7 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
+JavaScript   7 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
+HTML         5 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
+Markdown     1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
 ```
 
 <!--END_SECTION:waka-->
