@@ -15,7 +15,6 @@
     <img height="30" src="https://github.com/levos-snr/levos-snr/blob/master/icon/buy-me-a-coffee.png?raw=true">
   </a>
 </div>
-
 <!-- GitHub Stats and Contribution -->
 <details open="">
 <summary>
@@ -25,7 +24,6 @@
 </br>
   
 <p align="center">
-  <!-- First row with GitHub Stats and GitHub Streak -->
   <div style="display: flex; justify-content: space-between; max-width: 800px; margin: auto;">
     <a href="https://github.com/levos-snr">
       <img src="https://github-readme-stats.vercel.app/api?username=levos-snr&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" style="width: 48%; max-width: 400px; height: 230px;" />
