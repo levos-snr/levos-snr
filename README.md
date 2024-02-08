@@ -26,7 +26,8 @@
 <p align="center">
   <div style="display: flex; justify-content: space-between; max-width: 800px; margin: auto;">
     <a href="https://github.com/levos-snr">
-      <img src="https://github-readme-stats.vercel.app/api?username=levos-snr&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" style="width: 48%; max-width: 400px; height: 230px;" />
+<!--       <img src="https://github-readme-stats.vercel.app/api?username=levos-snr&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" style="width: 48%; max-width: 400px; height: 230px;" /> -->
+      <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levos-snr&show_icons=true&locale=en&theme=chartreuse-dark" alt="levos-snr"  style="width: 48%; max-width: 400px; height: 230px;" /></a>
     </a>
     <a href="https://github.com/levos-snr">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levos-snr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="width: 48%; max-width: 400px; height: 210px;" />
