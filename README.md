@@ -41,8 +41,8 @@
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 43 mins   ████████████████▓░░░░░░░░   67.07 %
-PowerShell   2 hrs 17 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
+JavaScript   5 hrs 43 mins   ████████████████▓░░░░░░░░   67.06 %
+PowerShell   2 hrs 17 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.79 %
 JSON         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
 CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
