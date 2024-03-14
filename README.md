@@ -41,10 +41,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 2 mins    █████████████▒░░░░░░░░░░░   53.28 %
-PowerShell   2 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   40.12 %
-JSON         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-CSS          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+PowerShell   2 hrs 17 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
