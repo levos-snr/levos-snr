@@ -41,7 +41,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   2 hrs 17 mins   █████████████████████████   100.00 %
+PowerShell   1 hr 1 min      █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
