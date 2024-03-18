@@ -41,7 +41,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   0 secs          █████████████████████████   100.00 %
+TypeScript   4 hrs 8 mins    ███████████████████████▒░   93.00 %
+CSS          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 ```
 
 <!--END_SECTION:waka-->
