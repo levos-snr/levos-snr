@@ -41,7 +41,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PowerShell   1 hr 16 mins    ██████████████████████▓░░   91.32 %
+Bash         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+PHP          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
