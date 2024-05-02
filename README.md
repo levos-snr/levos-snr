@@ -41,8 +41,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-SSH Key   0 secs          █████████████████▒░░░░░░░   69.68 %
-Other     0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
