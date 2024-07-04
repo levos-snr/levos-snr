@@ -24,7 +24,7 @@
 </br>
   
 <p align="center">
-  <div>
+  <div style=" max-width: 1000px; margin: auto;">
     <a href="https://github.com/levos-snr">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levos-snr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="width: 48%; max-width: 400px; height: 210px;" />
     </a>
