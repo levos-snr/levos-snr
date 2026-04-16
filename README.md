@@ -1,51 +1,49 @@
-<!-- @format -->
-## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Languages and Tools:
+Hi, I'm Lewis 👋
 
-<div align='center'>
-  <a href="#"> 
-    <img alt="Next JS" src="https://img.shields.io/badge/-Next_JS-000000?style=for-the-badge&logo=nextjs&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-    <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-00E719?style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
-    <img alt="Google Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
-  </a>
-</div>
+Front-End Developer building at **Future Software Agency** in Nairobi, Kenya 🇰🇪.
+I build clean, fast web and mobile experiences — mostly with React, Next.js, TypeScript
+and Node.js. I love turning complex problems into simple, beautiful interfaces.
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/levos_snr">
-    <img height="30" src="https://github.com/levos-snr/levos-snr/blob/master/icon/buy-me-a-coffee.png?raw=true">
-  </a>
-</div>
-<!-- GitHub Stats and Contribution -->
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
-  <strong>Github Stats:</strong>
-</summary>
-</br>
-  
-<div align="center">
-  <div style=" width: 100%; margin: auto;">
-    <a href="https://github.com/levos-snr">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levos-snr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="width: 48%; max-width: 400px; height: 210px;" />
-    </a>
-  </div>
-</div>
+Follow me on [Twitter/X](https://twitter.com/levos_snr) · Check out my
+[portfolio](https://bio.link/levos_snr) · [Buy me a coffee](https://www.buymeacoffee.com/levos_snr)
+if something I built helped you.
 
+## Current Projects
 
+**Web Apps**
 
+[Pesafy](https://github.com/levos-snr/pesafy) — M-Pesa powered fintech app for managing
+payments and transactions seamlessly
 
-<!--  Stats -->  
- <!--START_SECTION:waka-->
+[SpendWise](https://github.com/levos-snr/SpendWise-Frontend) — Personal finance tracker
+to monitor budgets, spending habits and expenses
 
-```txt
-No activity tracked
-```
+[MingleSphere](https://github.com/levos-snr/mingle-sphere-frontend) — Social platform
+frontend for connecting and engaging with communities
 
-<!--END_SECTION:waka-->
+[KPM Sales](https://github.com/levos-snr/kpm-sales-management-frontend) — Sales
+management dashboard for tracking revenue, leads and team performance
 
-</details>
-<br>
+**Tools**
 
-**Credits**: [Lewis Odero](https://github.com/levos-snr/) <br>
-**Last Edited**: 23/1/2024
+[Froggit](https://github.com/levos-snr/froggit) — A developer tool to simplify and
+supercharge your Git workflow
 
+**Older Projects**
+
+[BridgeWaveConnect](https://github.com/levos-snr/bridgewaveconnect) — TypeScript toolkit
+for integrating the M-Pesa Daraja API
+
+[Movie App](https://github.com/levos-snr/movie-app) — Netflix redesign with Firebase
+Authentication [[Live →]](https://movie-app-project1.web.app/)
+
+[JOP API](https://github.com/levos-snr/jop-api) — Mobile app built with React Native
+and Expo
+
+## Tech I work with
+
+React · Next.js · TypeScript · Node.js · Tailwind CSS · React Native · Firebase · Git · MySQL
+
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levos-snr&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/levos-snr)
