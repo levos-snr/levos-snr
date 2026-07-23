@@ -1,8 +1,11 @@
-Hi, I'm Lewis 👋
+# Hi, I'm Odero 👋
 
-Front-End Developer building at **Future Software Agency** in Nairobi, Kenya 🇰🇪.
-I build clean, fast web and mobile experiences — mostly with React, Next.js, TypeScript
-and Node.js. I love turning complex problems into simple, beautiful interfaces.
+I'm a software engineer, passionate about designing systems and building products that solve real problems.
+
+I enjoy turning complex ideas into simple, scalable software—from intuitive user interfaces to the architecture that powers them. I'm always exploring better ways to build faster, cleaner, and more reliable systems.
+
+I believe great software comes from thoughtful engineering, relentless execution, and continuous learning. Every project is an opportunity to build something better than the last.
+
 
 Follow me on [Twitter/X](https://twitter.com/levos_snr) · Check out my
 [portfolio](https://bio.link/levos_snr) · [Buy me a coffee](https://www.buymeacoffee.com/levos_snr)
